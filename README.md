@@ -87,3 +87,4 @@ pnpm create next-app [name-of-your-project] -e https://github.com/AugustoTI/temp
 ```
 
 > don't forget to rename the project in package.json
+# FoodJP
